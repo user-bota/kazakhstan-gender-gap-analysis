@@ -5,7 +5,9 @@ An interactive Tableau dashboard analyzing Kazakhstan's gender gap trends using 
 **View the interactive dashboard on Tableau Public:**  
 https://public.tableau.com/app/profile/akbota.serikkyzy/viz/KazakhstanGenderGapAnalysis/KazakhstanGenderGapAnalysis?publish=yes
 
-The repository also includes the dashboard export as a **PNG** file.
+## Dashboard Preview
+
+![Kazakhstan Gender Gap Analysis](Kazakhstan%20Gender%20Gap%20Analysis.png)
 
 ## Key Findings
 
@@ -19,7 +21,7 @@ The repository also includes the dashboard export as a **PNG** file.
 
 ## Why This Gap Exists
 
-Soviet-era policy pushed mass female education starting in the 1920s, and Kazakhstan sustained that investment after independence. Political access, however, never followed the same trajectory, and that gap has not closed in the years since.
+Soviet-era policy pushed mass female education starting in the 1920s, and Kazakhstan sustained that investment after independence. Political access, however, never followed the same trajectory, and th[...]
 
 ## Data
 

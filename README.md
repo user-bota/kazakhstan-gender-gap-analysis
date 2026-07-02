@@ -21,7 +21,7 @@ https://public.tableau.com/app/profile/akbota.serikkyzy/viz/KazakhstanGenderGapA
 
 ## Why This Gap Exists
 
-Soviet-era policy pushed mass female education starting in the 1920s, and Kazakhstan sustained that investment after independence. Political access, however, never followed the same trajectory, and th[...]
+Soviet-era policy pushed mass female education starting in the 1920s, and Kazakhstan sustained that investment after independence. Political access, however, never followed the same trajectory, and this imbalance continues to shape the country’s gender-gap profile today.
 
 ## Data
 
